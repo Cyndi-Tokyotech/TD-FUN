@@ -1,3 +1,6 @@
+![image (1)](https://github.com/user-attachments/assets/046b208c-dee6-4384-ad47-2ce8794ebde1)
+![image](https://github.com/user-attachments/assets/ad38fb20-b6f6-45f2-8063-ff8b6354961d)
+
 # Uncertainty Analysis Tool
 
 A Streamlit-based web application for uncertainty sentence extraction in text using BERT models.
