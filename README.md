@@ -1,3 +1,8 @@
+# TD-FUN
+
+![image (1)](https://github.com/user-attachments/assets/046b208c-dee6-4384-ad47-2ce8794ebde1)
+![image](https://github.com/user-attachments/assets/ad38fb20-b6f6-45f2-8063-ff8b6354961d)
+
 # Uncertainty Analysis Tool
 
 A Streamlit-based web application for uncertainty sentence extraction in text using BERT models.
@@ -23,6 +28,10 @@ conda install -c pytorch pytorch torchvision torchaudio
 # Install other dependencies
 pip install streamlit transformers datasets pandas numpy scikit-learn plotly
 pip install fugashi ipadic
+pip install -U accelerate
+pip install -U transformers
+# if you want to train japanese dataset
+pip install unidic-lite
 ```
 
 ### Option 2: Using venv
@@ -175,6 +184,9 @@ pip install pytest
 # Run tests
 pytest
 ```
+
+## Citation
+Waiting for publishing
 
 ## License
 
