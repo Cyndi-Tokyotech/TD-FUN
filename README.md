@@ -28,6 +28,8 @@ conda install -c pytorch pytorch torchvision torchaudio
 # Install other dependencies
 pip install streamlit transformers datasets pandas numpy scikit-learn plotly
 pip install fugashi ipadic
+pip install -U accelerate
+pip install -U transformers
 ```
 
 ### Option 2: Using venv
