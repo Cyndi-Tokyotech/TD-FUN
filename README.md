@@ -30,6 +30,8 @@ pip install streamlit transformers datasets pandas numpy scikit-learn plotly
 pip install fugashi ipadic
 pip install -U accelerate
 pip install -U transformers
+# if you want to train japanese dataset
+pip install unidic-lite
 ```
 
 ### Option 2: Using venv
